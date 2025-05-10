@@ -76,11 +76,7 @@ The architecture for deploying the dynamic web application on AWS is designed fo
    - Set up CloudWatch for real-time monitoring of ECS services and AWS infrastructure.
    - Configured log streams to capture key events and metrics for debugging and performance monitoring.
 
-8. **Testing and Validation**
-   - Deployed the infrastructure to a staging environment to test and validate the deployment.
-   - Ensured all components functioned correctly before moving to production.
-
-9. **Documentation**
+8. **Documentation**
    - Documented the entire infrastructure setup and deployment process for future reference and knowledge transfer.
 
 ---
